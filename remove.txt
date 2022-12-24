@@ -1,0 +1,5 @@
+device/oneplus/
+vendor/oneplus/
+kernel/oneplus/
+hardware/oplus
+hardware/qcom-caf/sm8250/audio
