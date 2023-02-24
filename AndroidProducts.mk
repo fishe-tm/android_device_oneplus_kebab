@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kebab.mk
+    $(LOCAL_DIR)/lmodroid_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kebab-user \
-    lineage_kebab-userdebug \
-    lineage_kebab-eng
+    lmodroid_kebab-user \
+    lmodroid_kebab-userdebug \
+    lmodroid_kebab-eng
